@@ -1,6 +1,6 @@
 # ssd1309
 OLED 128*64
-```c/c++
+```python
 from machine import Pin,SoftI2C
 from ssd1309 import SSD1309_I2C
 import time
